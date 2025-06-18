@@ -16,8 +16,8 @@
           <div
             class="mt-6 font-mono flex max-sm:flex-col items-center justify-between gap-2 w-full"
           >
-            <p class="text-[10px] md:text-xs">{{ subTitle }}</p>
-            <p class="text-[10px] md:text-xs">{{ subTitleSecond }}</p>
+            <p class="text-3 md:text-xs">{{ subTitle }}</p>
+            <p class="text-3 md:text-xs">{{ subTitleSecond }}</p>
           </div>
         </div>
       </div>
