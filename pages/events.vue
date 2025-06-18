@@ -8,7 +8,7 @@
         :title="event.title"
         :video-src="event.videoSrc"
         :sub-title="event.subTitle"
-        :is-active="showCursor"
+        :is-active="true"
         :sub-title-second="event.subTitleSecond"
         @mouseenter="showCursor = true"
         @mouseleave="showCursor = false"
